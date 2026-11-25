@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS kartindo_data (id TEXT PRIMARY KEY, data TEXT NOT NULL, updated_at TEXT);

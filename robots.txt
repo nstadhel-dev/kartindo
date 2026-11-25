@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /PANDUAN-DEPLOY-CLOUDFLARE-D1.html
+Sitemap: https://kartindo.pages.dev/sitemap.xml

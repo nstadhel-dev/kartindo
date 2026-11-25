@@ -1,0 +1,6 @@
+name = "kartindo"
+pages_build_output_dir = "."
+[[d1_databases]]
+binding = "DB"
+database_name = "kartindo_db"
+database_id = "ISI_DATABASE_ID_DARI_DASHBOARD"
